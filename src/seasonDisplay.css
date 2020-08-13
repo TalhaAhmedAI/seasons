@@ -17,6 +17,10 @@
   height: 100vh;
 }
 
+.border-red {
+  border: 10px solid red;
+}
+
 .season-display.winter i {
   color: blue;
 }
